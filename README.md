@@ -10,6 +10,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 |:---:|:---|:---:|:---:|
 | **Day 1** | **Q1:** Insert element at a given position in an array | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day1/Q1.cpp) |
 | | **Q2:** Two Sum (Indices of two numbers that add up to a target) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day1/Q2.java) |
+| **Day 2** | **Q1:** Delete element at a given 1-based position in an array | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day2/Q1.cpp) |
+| | **Q2:** Best Time to Buy and Sell Stock | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day2/Q2.java) |
 
 ---
 

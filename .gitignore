@@ -25,11 +25,7 @@
 *.dylib
 
 # VS Code settings and local workspace data
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 .history/
 
 # OS-specific files
