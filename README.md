@@ -14,6 +14,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 | | **Q2:** Best Time to Buy and Sell Stock | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day2/Q2.java) |
 | **Day 3** | **Q1:** Linear Search (Search an element and count comparisons) | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day3/Q1.cpp) |
 | | **Q2:** Missing in Array (Find the missing number in an array) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day3/Q2.java) |
+| **Day 4** | **Q1:** Reverse an array in-place using two-pointer approach | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q1.cpp) |
+| | **Q2:** Remove Element (Remove all occurrences of a value in-place) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q2.java) |
 
 ---
 
