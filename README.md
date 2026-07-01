@@ -16,6 +16,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 | | **Q2:** Missing in Array (Find the missing number in an array) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day3/Q2.java) |
 | **Day 4** | **Q1:** Reverse an array in-place using two-pointer approach | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q1.cpp) |
 | | **Q2:** Remove Element (Remove all occurrences of a value in-place) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q2.java) |
+| **Day 5** | **Q1:** Merge Two Sorted Arrays (Two-pointer merge of sorted logs) | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day5/Q1.cpp) |
+| | **Q2:** Merge Sorted Array (In-place merge from the end — LeetCode) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day5/Q2.java) |
 
 ---
 
