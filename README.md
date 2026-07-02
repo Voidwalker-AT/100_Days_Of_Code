@@ -8,16 +8,18 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 
 | Day | Problem / Topic | Language | Solution Link |
 |:---:|:---|:---:|:---:|
-| **Day 1** | **Q1:** Insert element at a given position in an array | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day1/Q1.cpp) |
-| | **Q2:** Two Sum (Indices of two numbers that add up to a target) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day1/Q2.java) |
-| **Day 2** | **Q1:** Delete element at a given 1-based position in an array | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day2/Q1.cpp) |
-| | **Q2:** Best Time to Buy and Sell Stock | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day2/Q2.java) |
-| **Day 3** | **Q1:** Linear Search (Search an element and count comparisons) | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day3/Q1.cpp) |
-| | **Q2:** Missing in Array (Find the missing number in an array) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day3/Q2.java) |
-| **Day 4** | **Q1:** Reverse an array in-place using two-pointer approach | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q1.cpp) |
-| | **Q2:** Remove Element (Remove all occurrences of a value in-place) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day4/Q2.java) |
-| **Day 5** | **Q1:** Merge Two Sorted Arrays (Two-pointer merge of sorted logs) | C++ | [Q1.cpp](file:///e:/Workspace/Academic/100_Days_Of_Code/Day5/Q1.cpp) |
-| | **Q2:** Merge Sorted Array (In-place merge from the end — LeetCode) | Java | [Q2.java](file:///e:/Workspace/Academic/100_Days_Of_Code/Day5/Q2.java) |
+| **Day 1** | **Q1:** Insert element at a given position in an array | C++ | [Q1.cpp](Day1/Q1.cpp) |
+| | **Q2:** Two Sum (Indices of two numbers that add up to a target) | Java | [Q2.java](Day1/Q2.java) |
+| **Day 2** | **Q1:** Delete element at a given 1-based position in an array | C++ | [Q1.cpp](Day2/Q1.cpp) |
+| | **Q2:** Best Time to Buy and Sell Stock | Java | [Q2.java](Day2/Q2.java) |
+| **Day 3** | **Q1:** Linear Search (Search an element and count comparisons) | C++ | [Q1.cpp](Day3/Q1.cpp) |
+| | **Q2:** Missing in Array (Find the missing number in an array) | Java | [Q2.java](Day3/Q2.java) |
+| **Day 4** | **Q1:** Reverse an array in-place using two-pointer approach | C++ | [Q1.cpp](Day4/Q1.cpp) |
+| | **Q2:** Remove Element (Remove all occurrences of a value in-place) | Java | [Q2.java](Day4/Q2.java) |
+| **Day 5** | **Q1:** Merge Two Sorted Arrays (Two-pointer merge of sorted logs) | C++ | [Q1.cpp](Day5/Q1.cpp) |
+| | **Q2:** Merge Sorted Array (In-place merge from the end — LeetCode) | Java | [Q2.java](Day5/Q2.java) |
+| **Day 6** | **Q1:** Remove Duplicates from Sorted Array (In-place unique elements) | C++ | [Q1.cpp](Day6/Q1.cpp) |
+| | **Q2:** Move Zeroes (Move all zeroes to end in-place — LeetCode) | Java | [Q2.java](Day6/Q2.java) |
 
 ---
 
@@ -50,15 +52,6 @@ javac Q2.java
 # Run the compiled class (e.g. Solution or Q2 depending on main method)
 java Solution
 ```
-
----
-
-## 🎯 Goals
-- [x] Day 1-10: Basic Array operations and Elementary Algorithms
-- [ ] Day 11-30: Recursion, Searching & Sorting, Linked Lists
-- [ ] Day 31-60: Trees, Graphs, Stacks & Queues
-- [ ] Day 61-90: Dynamic Programming & Greedy Algorithms
-- [ ] Day 91-100: Advanced topics & Project building
 
 ---
 
