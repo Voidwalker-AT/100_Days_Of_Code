@@ -20,6 +20,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 | | **Q2:** Merge Sorted Array (In-place merge from the end — LeetCode) | Java | [Q2.java](Day5/Q2.java) |
 | **Day 6** | **Q1:** Remove Duplicates from Sorted Array (In-place unique elements) | C++ | [Q1.cpp](Day6/Q1.cpp) |
 | | **Q2:** Move Zeroes (Move all zeroes to end in-place — LeetCode) | Java | [Q2.java](Day6/Q2.java) |
+| **Day 7** | **Q1:** Fibonacci Number (Recursive computation of n-th Fibonacci) | C++ | [Q1.cpp](Day7/Q1.cpp) |
+| | **Q2:** Fibonacci Number (Recursive — LeetCode) | Java | [Q2.java](Day7/Q2.java) |
 
 ---
 
