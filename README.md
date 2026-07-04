@@ -22,6 +22,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 | | **Q2:** Move Zeroes (Move all zeroes to end in-place — LeetCode) | Java | [Q2.java](Day6/Q2.java) |
 | **Day 7** | **Q1:** Fibonacci Number (Recursive computation of n-th Fibonacci) | C++ | [Q1.cpp](Day7/Q1.cpp) |
 | | **Q2:** Fibonacci Number (Recursive — LeetCode) | Java | [Q2.java](Day7/Q2.java) |
+| **Day 8** | **Q1:** Recursive Power (Compute a^b using recursion) | C++ | [Q1.cpp](Day8/Q1.cpp) |
+| | **Q2:** Power of Two (Check if n is a power of two — LeetCode) | Java | [Q2.java](Day8/Q2.java) |
 
 ---
 
