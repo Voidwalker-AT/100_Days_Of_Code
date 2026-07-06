@@ -26,6 +26,8 @@ Welcome to my **100 Days of Code** repository! This project documents my daily j
 | | **Q2:** Power of Two (Check if n is a power of two — LeetCode) | Java | [Q2.java](Day8/Q2.java) |
 | **Day 9** | **Q1:** Reverse a String (Mirror a code name by reversing characters) | C++ | [Q1.cpp](Day9/Q1.cpp) |
 | | **Q2:** Reverse String (Two-pointer in-place swap — LeetCode) | Java | [Q2.java](Day9/Q2.java) |
+| **Day 10** | **Q1:** Palindrome Check (Two-pointer string comparison) | C++ | [Q1.cpp](Day10/Q1.cpp) |
+| | **Q2:** Intersection of Two Arrays II (Frequency count — LeetCode) | Java | [Q2.java](Day10/Q2.java) |
 
 ---
 
