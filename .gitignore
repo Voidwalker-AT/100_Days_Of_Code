@@ -28,6 +28,10 @@
 .vscode/
 .history/
 
+# Clangd / IntelliSense config (machine-specific paths)
+compile_flags.txt
+.clangd
+
 # OS-specific files
 Thumbs.db
 db.db
