@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/day-12%2F100-blueviolet?style=flat-square" alt="Day">
-  <img src="https://img.shields.io/badge/🔥_streak-12_days-orange?style=flat-square" alt="Streak">
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 13 / 100</code>&nbsp;&nbsp;<code>🔥 13-day streak</code>
 </p>
 
 ---
@@ -30,7 +27,7 @@ no skipping. no excuses. just code.
 ### 📈 the grind so far
 
 ```
- ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12 / 100 days
+ █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  13 / 100 days
 ```
 
 ---
@@ -90,6 +87,8 @@ no skipping. no excuses. just code.
 |        | **Q2:** Transpose Matrix — swap rows ↔ columns     | Java  | [Q2.java](Day11/Q2.java) |
 | **12** | **Q1:** Symmetric Matrix Check — is A equal to Aᵀ? |  C++  |  [Q1.cpp](Day12/Q1.cpp)  |
 |        | **Q2:** Toeplitz Matrix — constant diagonals check | Java  | [Q2.java](Day12/Q2.java) |
+| **13** | **Q1:** Spiral Matrix Traversal — clockwise layer-by-layer |  C++  |  [Q1.cpp](Day13/Q1.cpp)  |
+|        | **Q2:** Spiral Matrix — return elements in spiral order (LeetCode) | Java  | [Q2.java](Day13/Q2.java) |
 
 </details>
 
@@ -135,6 +134,6 @@ java Solution
 ---
 
 <p align="center">
-  <b>day 12</b> done. <b>88</b> to go.<br>
+  <b>day 13</b> done. <b>87</b> to go.<br>
   <i>see you tomorrow.</i> 🖤
 </p>
