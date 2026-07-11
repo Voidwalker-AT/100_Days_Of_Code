@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 14 / 100</code>&nbsp;&nbsp;<code>🔥 14-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 15 / 100</code>&nbsp;&nbsp;<code>🔥 15-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░  14 / 100 days
+ ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  15 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Matrix Zeroing
 
 ---
 
@@ -76,7 +76,7 @@ Introduces recursive thinking with classic problems (Fibonacci, exponentiation),
 </details>
 
 <details open>
-<summary><h3>Phase 3 — Matrices & 2D Array Operations <code>Day 11–14</code></h3></summary>
+<summary><h3>Phase 3 — Matrices & 2D Array Operations <code>Day 11–15</code></h3></summary>
 
 Focuses on matrix-level operations: addition, transposition, symmetry checks, spiral traversal, identity verification, and in-place rotation — all requiring nested iteration and boundary management.
 
@@ -90,6 +90,8 @@ Focuses on matrix-level operations: addition, transposition, symmetry checks, sp
 | | **Q2:** Spiral Matrix — return all elements in spiral order (LeetCode 54) | Boundary shrinking | Java | [Q2.java](Day13/Q2.java) |
 | **14** | **Q1:** Identity Matrix Check — verify diagonal 1s and off-diagonal 0s | Conditional element check | C++ | [Q1.cpp](Day14/Q1.cpp) |
 | | **Q2:** Rotate Image — rotate matrix 90° clockwise in-place (LeetCode 48) | Transpose + row reverse | Java | [Q2.java](Day14/Q2.java) |
+| **15** | **Q1:** Primary Diagonal Sum — sum elements where row index equals column index | Diagonal traversal | C++ | [Q1.cpp](Day15/Q1.cpp) |
+| | **Q2:** Set Matrix Zeroes — zero entire row/col if element is 0 (LeetCode 73) | Boolean marker arrays | Java | [Q2.java](Day15/Q2.java) |
 
 </details>
 
@@ -162,12 +164,12 @@ java Solution
 |:---:|:---:|:---|
 | 1 | 1–6 | Array CRUD, two-pointer technique, sorted array operations, in-place manipulation |
 | 2 | 7–10 | Recursive problem decomposition, base cases, string traversal and comparison |
-| 3 | 11–14 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms |
-| 4 | 15+ | *Coming soon* |
+| 3 | 11–15 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms, diagonal operations |
+| 4 | 16+ | *Coming soon* |
 
 ---
 
 <p align="center">
-  <b>Day 14</b> complete · <b>86</b> remaining<br>
+  <b>Day 15</b> complete · <b>85</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
