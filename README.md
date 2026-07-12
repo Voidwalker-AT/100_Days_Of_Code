@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 15 / 100</code>&nbsp;&nbsp;<code>🔥 15-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 16 / 100</code>&nbsp;&nbsp;<code>🔥 16-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- ███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  15 / 100 days
+ ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  16 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Matrix Zeroing
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Matrix Zeroing · Frequency Counting · Array Rotation
 
 ---
 
@@ -92,6 +92,18 @@ Focuses on matrix-level operations: addition, transposition, symmetry checks, sp
 | | **Q2:** Rotate Image — rotate matrix 90° clockwise in-place (LeetCode 48) | Transpose + row reverse | Java | [Q2.java](Day14/Q2.java) |
 | **15** | **Q1:** Primary Diagonal Sum — sum elements where row index equals column index | Diagonal traversal | C++ | [Q1.cpp](Day15/Q1.cpp) |
 | | **Q2:** Set Matrix Zeroes — zero entire row/col if element is 0 (LeetCode 73) | Boolean marker arrays | Java | [Q2.java](Day15/Q2.java) |
+
+</details>
+
+<details open>
+<summary><h3>Phase 4 — Hashing & Array Techniques <code>Day 16+</code></h3></summary>
+
+Introduces frequency analysis using visited-marker arrays and advanced array manipulation techniques like triple-reversal rotation.
+
+| Day | Problem | Technique | Lang | Solution |
+|:---:|:---|:---|:---:|:---:|
+| **16** | **Q1:** Element Frequency Count — count occurrences of each distinct element | Visited-marker array | C++ | [Q1.cpp](Day16/Q1.cpp) |
+| | **Q2:** Rotate Array — rotate right by k steps in-place (LeetCode 189) | Triple reversal | Java | [Q2.java](Day16/Q2.java) |
 
 </details>
 
@@ -165,11 +177,11 @@ java Solution
 | 1 | 1–6 | Array CRUD, two-pointer technique, sorted array operations, in-place manipulation |
 | 2 | 7–10 | Recursive problem decomposition, base cases, string traversal and comparison |
 | 3 | 11–15 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms, diagonal operations |
-| 4 | 16+ | *Coming soon* |
+| 4 | 16+ | Frequency analysis, visited-marker patterns, in-place rotation techniques |
 
 ---
 
 <p align="center">
-  <b>Day 15</b> complete · <b>85</b> remaining<br>
+  <b>Day 16</b> complete · <b>84</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
