@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 16 / 100</code>&nbsp;&nbsp;<code>🔥 16-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 17 / 100</code>&nbsp;&nbsp;<code>🔥 17-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- ████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  16 / 100 days
+ █████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  17 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Matrix Zeroing · Frequency Counting · Array Rotation
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm
 
 ---
 
@@ -104,6 +104,8 @@ Introduces frequency analysis using visited-marker arrays and advanced array man
 |:---:|:---|:---|:---:|:---:|
 | **16** | **Q1:** Element Frequency Count — count occurrences of each distinct element | Visited-marker array | C++ | [Q1.cpp](Day16/Q1.cpp) |
 | | **Q2:** Rotate Array — rotate right by k steps in-place (LeetCode 189) | Triple reversal | Java | [Q2.java](Day16/Q2.java) |
+| **17** | **Q1:** Find Maximum and Minimum — single-pass scan of an array | Linear scan | C++ | [Q1.cpp](Day17/Q1.cpp) |
+| | **Q2:** Maximum Subarray — largest contiguous sum (LeetCode 53) | Kadane’s algorithm | Java | [Q2.java](Day17/Q2.java) |
 
 </details>
 
@@ -182,6 +184,6 @@ java Solution
 ---
 
 <p align="center">
-  <b>Day 16</b> complete · <b>84</b> remaining<br>
+  <b>Day 17</b> complete · <b>83</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
