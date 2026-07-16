@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 19 / 100</code>&nbsp;&nbsp;<code>🔥 19-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 20 / 100</code>&nbsp;&nbsp;<code>🔥 20-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- ███████████████████░░░░░░░░░░░░░░░░░░░░░░░  19 / 100 days
+ ████████████████████░░░░░░░░░░░░░░░░░░░░░░  20 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays · Prefix Sum Hashing · 3Sum
 
 ---
 
@@ -98,7 +98,7 @@ Focuses on matrix-level operations: addition, transposition, symmetry checks, sp
 <details open>
 <summary><h3>Phase 4 — Hashing & Array Techniques <code>Day 16+</code></h3></summary>
 
-Introduces frequency analysis using visited-marker arrays, advanced array manipulation techniques like triple-reversal rotation, prefix/suffix scans for product-based problems, and circular subarray optimization.
+Introduces frequency analysis using visited-marker arrays, advanced array manipulation techniques like triple-reversal rotation, prefix/suffix scans for product-based problems, circular subarray optimization, and sorted two-pointer triplet search.
 
 | Day | Problem | Technique | Lang | Solution |
 |:---:|:---|:---|:---:|:---:|
@@ -110,6 +110,8 @@ Introduces frequency analysis using visited-marker arrays, advanced array manipu
 | | **Q2:** Product of Array Except Self (LeetCode 238) | Prefix/suffix products | Java | [Q2.java](Day18/Q2.java) |
 | **19** | **Q1:** Pair Sum Closest to Zero — find two elements with minimum absolute sum | Sort + two pointers | C++ | [Q1.cpp](Day19/Q1.cpp) |
 | | **Q2:** Maximum Sum Circular Subarray (LeetCode 918) | Kadane max/min + wrap-around | Java | [Q2.java](Day19/Q2.java) |
+| **20** | **Q1:** Zero-Sum Subarray Count — count subarrays whose sum is 0 | Prefix sum + hash map frequency | C++ | [Q1.cpp](Day20/Q1.cpp) |
+| | **Q2:** 3Sum — find unique triplets that sum to zero (LeetCode 15) | Sort + two pointers + duplicate skipping | Java | [Q2.java](Day20/Q2.java) |
 
 </details>
 
@@ -183,11 +185,11 @@ java Solution
 | 1 | 1–6 | Array CRUD, two-pointer technique, sorted array operations, in-place manipulation |
 | 2 | 7–10 | Recursive problem decomposition, base cases, string traversal and comparison |
 | 3 | 11–15 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms, diagonal operations |
-| 4 | 16+ | Frequency analysis, visited-marker patterns, in-place rotation techniques, prefix/suffix products, circular subarray optimization |
+| 4 | 16+ | Frequency analysis, visited-marker patterns, in-place rotation techniques, prefix/suffix products, circular subarray optimization, prefix-sum hashing, k-sum patterns |
 
 ---
 
 <p align="center">
-  <b>Day 19</b> complete · <b>81</b> remaining<br>
+  <b>Day 20</b> complete · <b>80</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
