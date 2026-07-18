@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 21 / 100</code>&nbsp;&nbsp;<code>🔥 21-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 22 / 100</code>&nbsp;&nbsp;<code>🔥 22-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- █████████████████████░░░░░░░░░░░░░░░░░░░░░  21 / 100 days
+ ██████████████████████░░░░░░░░░░░░░░░░░░░░  22 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays · Prefix Sum Hashing · 3Sum · Linked Lists · Fast/Slow Pointers
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays · Prefix Sum Hashing · 3Sum · Linked Lists · Fast/Slow Pointers · Pointer Reversal
 
 ---
 
@@ -118,12 +118,14 @@ Introduces frequency analysis using visited-marker arrays, advanced array manipu
 <details open>
 <summary><h3>Phase 5 — Linked Lists <code>Day 21+</code></h3></summary>
 
-Begins pointer-based data structures with singly linked list construction, traversal, and classic fast/slow pointer movement.
+Begins pointer-based data structures with singly linked list construction, traversal, counting, classic fast/slow pointer movement, and iterative pointer reversal.
 
 | Day | Problem | Technique | Lang | Solution |
 |:---:|:---|:---|:---:|:---:|
 | **21** | **Q1:** Create and Traverse a Singly Linked List | Tail insertion + pointer traversal | C++ | [Q1.cpp](Day21/Q1.cpp) |
 | | **Q2:** Middle of the Linked List (LeetCode 876) | Fast/slow pointers | Java | [Q2.java](Day21/Q2.java) |
+| **22** | **Q1:** Count Nodes in a Linked List | Linear traversal count | C++ | [Q1.cpp](Day22/Q1.cpp) |
+| | **Q2:** Reverse Linked List (LeetCode 206) | Iterative pointer reversal | Java | [Q2.java](Day22/Q2.java) |
 
 </details>
 
@@ -198,11 +200,11 @@ java Solution
 | 2 | 7–10 | Recursive problem decomposition, base cases, string traversal and comparison |
 | 3 | 11–15 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms, diagonal operations |
 | 4 | 16–20 | Frequency analysis, visited-marker patterns, in-place rotation techniques, prefix/suffix products, circular subarray optimization, prefix-sum hashing, k-sum patterns |
-| 5 | 21+ | Linked list creation, traversal, node references, fast/slow pointer technique |
+| 5 | 21+ | Linked list creation, traversal, node references, fast/slow pointer technique, counting, iterative reversal |
 
 ---
 
 <p align="center">
-  <b>Day 21</b> complete · <b>79</b> remaining<br>
+  <b>Day 22</b> complete · <b>78</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
