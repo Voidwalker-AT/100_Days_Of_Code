@@ -1,7 +1,7 @@
 //Remove linked list element-leetcode
 
 //Definition for singly-linked list.
-public class ListNode 
+class ListNode 
 {
     int val;
     ListNode next;
