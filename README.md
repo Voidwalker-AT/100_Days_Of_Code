@@ -1,7 +1,7 @@
 <h1 align="center">⌨️ 100 Days of Code</h1>
 
 <p align="center">
-  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 26 / 100</code>&nbsp;&nbsp;<code>🔥 26-day streak</code>
+  <code>🔧 C++</code>&nbsp;&nbsp;<code>☕ Java</code>&nbsp;&nbsp;<code>📅 Day 27 / 100</code>&nbsp;&nbsp;<code>🔥 27-day streak</code>
 </p>
 
 ---
@@ -24,10 +24,10 @@ This dual-language approach reinforces understanding across both **low-level mem
 ## Progress
 
 ```
- ██████████████████████████░░░░░░░░░░░░░░░░  26 / 100 days
+ ███████████████████████████░░░░░░░░░░░░░░░  27 / 100 days
 ```
 
-**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays · Prefix Sum Hashing · 3Sum · Linked Lists · Fast/Slow Pointers · Pointer Reversal · Cycle Detection · Linked List Deletion · Cycle Entry Detection · Doubly Linked Lists · Linked List Design
+**Topics covered so far:** Arrays · Two Pointers · Searching · Merging · Recursion · String Manipulation · 2D Arrays / Matrices · Spiral Traversal · Diagonal Operations · Frequency Counting · Array Rotation · Kadane’s Algorithm · Prefix/Suffix Products · Circular Subarrays · Prefix Sum Hashing · 3Sum · Linked Lists · Fast/Slow Pointers · Pointer Reversal · Cycle Detection · Linked List Deletion · Cycle Entry Detection · Doubly Linked Lists · Linked List Design · Linked List Intersection · Loop Removal
 
 ---
 
@@ -118,7 +118,7 @@ Introduces frequency analysis using visited-marker arrays, advanced array manipu
 <details open>
 <summary><h3>Phase 5 — Linked Lists <code>Day 21+</code></h3></summary>
 
-Begins pointer-based data structures with singly linked list construction, traversal, counting, classic fast/slow pointer movement, iterative pointer reversal, sorted-list merging, cycle detection, deletion edge cases, doubly linked lists, and custom linked-list design.
+Begins pointer-based data structures with singly linked list construction, traversal, counting, classic fast/slow pointer movement, iterative pointer reversal, sorted-list merging, cycle detection, deletion edge cases, doubly linked lists, custom linked-list design, intersection detection, and loop removal.
 
 | Day | Problem | Technique | Lang | Solution |
 |:---:|:---|:---|:---:|:---:|
@@ -134,6 +134,8 @@ Begins pointer-based data structures with singly linked list construction, trave
 | | **Q2:** Linked List Cycle II (LeetCode 142) | Floyd cycle detection + entry pointer | Java | [Q2.java](Day25/Q2.java) |
 | **26** | **Q1:** Doubly Linked List Insertion and Traversal | Tail insertion + prev/next links | C++ | [Q1.cpp](Day26/Q1.cpp) |
 | | **Q2:** Design Linked List (LeetCode 707) | Custom API + size tracking | Java | [Q2.java](Day26/Q2.java) |
+| **27** | **Q1:** Find Intersection Point of Two Linked Lists | Length alignment + pointer sync | C++ | [Q1.cpp](Day27/Q1.cpp) |
+| | **Q2:** Remove Loop in a Linked List | Floyd detection + loop unlinking | Java | [Q2.java](Day27/Q2.java) |
 
 </details>
 
@@ -208,11 +210,11 @@ java Solution
 | 2 | 7–10 | Recursive problem decomposition, base cases, string traversal and comparison |
 | 3 | 11–15 | 2D array traversal, matrix properties, boundary-based algorithms, in-place transforms, diagonal operations |
 | 4 | 16–20 | Frequency analysis, visited-marker patterns, in-place rotation techniques, prefix/suffix products, circular subarray optimization, prefix-sum hashing, k-sum patterns |
-| 5 | 21+ | Linked list creation, traversal, node references, fast/slow pointer technique, counting, iterative reversal, sorted merge, cycle detection, deletion edge cases, doubly linked lists, custom linked-list API |
+| 5 | 21+ | Linked list creation, traversal, node references, fast/slow pointer technique, counting, iterative reversal, sorted merge, cycle detection, deletion edge cases, doubly linked lists, custom linked-list API, intersection alignment, loop removal |
 
 ---
 
 <p align="center">
-  <b>Day 26</b> complete · <b>74</b> remaining<br>
+  <b>Day 27</b> complete · <b>73</b> remaining<br>
   <i>"Consistency is key. Every day is a step closer to mastery."</i>
 </p>
